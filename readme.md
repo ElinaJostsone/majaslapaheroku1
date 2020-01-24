@@ -1,2 +1,2 @@
 # Skolas projekts
-### Autors: Elina Jostsones jaunkundz
+### Autors: Elina Jostsone

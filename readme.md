@@ -1,2 +1,2 @@
-#Skolas projekts
-###Autors: Elina Jostsonee
+# Skolas projekts
+### Autors: Elina Jostsonee

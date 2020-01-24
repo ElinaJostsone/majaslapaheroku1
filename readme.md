@@ -1,2 +1,2 @@
 #Skolas projekts
-###Autors: Elina Jostson
+###Autors: Elina Jostsone
